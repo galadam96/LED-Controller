@@ -1,0 +1,7 @@
+easyEDA-n nem volt accelerometer ezért hagyományos mód: 
+
+elkészíteni mouser és/vagy digikey alapján a schematikot, lementeni datasheetet
+kézzel csinálni symbolt,  footprintet
+kiküldeni pcbway és jlcpcb-nek rfq-t hogy mennyiért szerezné be az alkatrészeket
+olcsóbbtól megrendelni 10db pcb-t 5dbot assemyblyzni, a többit adják oda alkatrésszel külön
+otthon beforrasztani az üreseket.

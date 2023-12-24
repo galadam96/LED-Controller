@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Custom_Capacitor_SMD")(type "KiCad")(uri "${KIPRJMOD}/CustomLibrary/footprints/Custom_Capacitor_SMD.pretty")(options "")(descr ""))
+  (lib (name "Custom_Resistor_SMD")(type "KiCad")(uri "${KIPRJMOD}/CustomLibrary/footprints/Custom_Resistor_SMD.pretty")(options "")(descr ""))
+  (lib (name "Custom_Header_Connector")(type "KiCad")(uri "${KIPRJMOD}/CustomLibrary/footprints/Custom_Header_Connector.pretty")(options "")(descr ""))
+  (lib (name "Custom_Switch_SMD")(type "KiCad")(uri "${KIPRJMOD}/CustomLibrary/footprints/Custom_Switch_SMD.pretty")(options "")(descr ""))
+  (lib (name "Custom_Package")(type "KiCad")(uri "${KIPRJMOD}/CustomLibrary/footprints/Custom_Package.pretty")(options "")(descr ""))
+  (lib (name "Custom_Connector")(type "KiCad")(uri "${KIPRJMOD}/CustomLibrary/footprints/Custom_Connector.pretty")(options "")(descr ""))
+)
